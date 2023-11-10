@@ -13,6 +13,8 @@ export default function MyApp() {
     }}>
       <h1 style={{
         margin: 0,
+        fontSize: "30px",
+        fontFamily: "cursive"
       }}>Welcome to my app</h1>
       <MyButton buttonText="halaww" buttonText2="helooww" />
     </section>
